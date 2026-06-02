@@ -1,1 +1,3 @@
 Hello I am practicing git and GitHub commands
+
+Hey it's 2'nd june second edit I am doing 
